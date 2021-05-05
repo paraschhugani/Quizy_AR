@@ -1,7 +1,7 @@
 # Quizy_AR
 this is a repo submitting the my wdc app with Ar 
 
-[link text itself]: http://www.reddit.com
+[I'm an inline-style link](https://www.google.com)
 
 Game stage 1 https://github.com/paraschhugani/Quizy_AR/blob/main/QuizyAR.playground/Pages/Game%20Stage%201.xcplaygroundpage/Contents.swift
 
