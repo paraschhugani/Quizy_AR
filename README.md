@@ -1,8 +1,12 @@
 # Quizy_AR
-this is a repo submitting the my wdc app with Ar 
+This Repo is a code sample for MLH fellowship.
+The code was written in swiftplayground and so it might have some supporting files.
+Here jump on to main code ::
+
+
 
 [I'm an inline-style link](https://www.google.com)
 
-Game stage 1 https://github.com/paraschhugani/Quizy_AR/blob/main/QuizyAR.playground/Pages/Game%20Stage%201.xcplaygroundpage/Contents.swift
+[Game stage 1] (https://github.com/paraschhugani/Quizy_AR/blob/main/QuizyAR.playground/Pages/Game%20Stage%201.xcplaygroundpage/Contents.swift)
 
-Game stage 2 https://github.com/paraschhugani/Quizy_AR/blob/main/QuizyAR.playground/Pages/Game%20Stage%202.xcplaygroundpage/Contents.swift
+[Game stage 2] (https://github.com/paraschhugani/Quizy_AR/blob/main/QuizyAR.playground/Pages/Game%20Stage%202.xcplaygroundpage/Contents.swift)
