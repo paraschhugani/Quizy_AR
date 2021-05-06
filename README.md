@@ -1,7 +1,7 @@
 # Quizy_AR
 This Repo is a code sample for MLH fellowship.
 
-###QuizyAR 
+### QuizyAR 
 is a playground book, I created intending to make learning fun, and full of rewards which include an Augmented Reality game, that I would like to present in this year’s WWDC.
 The basic of the game includes a ball, and the player is supposed to move it using an on-screen joystick to score a goal. 
 
