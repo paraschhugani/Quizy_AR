@@ -4,9 +4,6 @@ The code was written in swiftplayground and so it might have some supporting fil
 Here jump on to main code ::
 
 
-
-[I'm an inline-style link](https://www.google.com)
-
 [Game stage 1](https://github.com/paraschhugani/Quizy_AR/blob/main/QuizyAR.playground/Pages/Game%20Stage%201.xcplaygroundpage/Contents.swift)
 
 [Game stage 2](https://github.com/paraschhugani/Quizy_AR/blob/main/QuizyAR.playground/Pages/Game%20Stage%202.xcplaygroundpage/Contents.swift)
